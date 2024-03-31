@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0bd24bf1.css","mappings":"AAAA,OACE,aAGF,YACE","sources":["App.scss"],"sourcesContent":["iframe {\n  display: none;\n}\n\n.App__title {\n  text-align: center;\n}\n"],"names":[],"sourceRoot":""}
